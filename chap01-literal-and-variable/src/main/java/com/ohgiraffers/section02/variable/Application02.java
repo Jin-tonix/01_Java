@@ -14,15 +14,15 @@ public class Application02 {
         // 정수를 취급하는 자료형은 4가지가 있다.
         byte bnum;    //1byte
         short snum;   //2byte
-        int inum;     //3byte
-        long lnum;    //4byte
+        int inum;     //4byte
+        long lnum;    //8byte
 
         // 실수를 취급하는 자료형은 2가지이다.
         float fnum;   //4byte
         double dnum;  //8byte
 
         // 문자를 취급하는 자료형은 한 가지가 있다.
-        char ch;     //2byte
+        char ch;     //1byte
 
         // 논리형을 취급하는 자료형은 한 가지가 있다.
         boolean  isTrue;  //1byte
