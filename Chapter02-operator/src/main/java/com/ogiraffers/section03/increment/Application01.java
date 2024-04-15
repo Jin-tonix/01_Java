@@ -21,6 +21,14 @@ public class Application01 {
         System.out.println(x);
         System.out.println(num);
 
+        num =0;
+        int result = num++ *10 ;
+        //result = num * 10;
+        //num +=1;
+        System.out.println(result);
+
+        result = ++num *10;
+        System.out.println(result);
 
 
 
