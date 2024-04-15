@@ -20,7 +20,7 @@ public class Application01 {
         int inum2 = 20;
 
         System.out.println("=========정수값 비교=========");
-
+        System.out.println("inum1과 inum2가 같은지 비교 : " + (inum1 != inum2)); //true
         System.out.println("inum1과 inum2가 같지 않은지 비교 : " + (inum1 != inum2)); //true
         System.out.println("inum1과 inum2가 큰지 비교 : " + (inum1 > inum2)); //false
         System.out.println("inum1과 inum2가 작은지 비교 : " + (inum1 < inum2)); //true

@@ -30,6 +30,19 @@ public class Application01 {
         result = ++num *10;
         System.out.println(result);
 
+        result = ++num *10;
+        System.out.println(result);
+
+        result = num++ *10;
+        System.out.println(result);
+
+        result = 10 + (++num);
+        System.out.println(result);
+
+        result = 10 *num++;
+        System.out.println(result);
+
+
 
 
     }
