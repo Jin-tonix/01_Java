@@ -6,5 +6,6 @@ public class Application01 {
     A_if app1 = new A_if();
     app1.testSimpleIfStatement();
 
+
     }
 }
