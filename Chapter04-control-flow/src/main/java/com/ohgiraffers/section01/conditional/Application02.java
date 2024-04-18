@@ -1,5 +1,6 @@
 package com.ohgiraffers.section01.conditional;
 
+import javax.xml.namespace.QName;
 import java.util.Scanner;
 
 public class Application02 {
@@ -70,4 +71,6 @@ public class Application02 {
         return "" + result;
 
     }
+
+
 }

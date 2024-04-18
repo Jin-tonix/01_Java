@@ -66,6 +66,7 @@ public class D_switch {//D_switch의 시작
 
     // 계산기를 만들고 결과를 반환합니다. (Switch를 이용함) 반환된 결과는 application03에서 즐겨주세요.
     // +-/* 만 제공하고 일치하는 연산이 없는 경우 연산불가라는 결과를 출력하고 반환 값을 0.0으로 합니다.
+
     //1. 값을 입력받음
     //2. 첫 수 입력받기
     //3. 두번째 수 입력받기
@@ -142,8 +143,10 @@ public class D_switch {//D_switch의 시작
 
     public void gradeCal(int score){
         Scanner sc = new Scanner(System.in);
+        System.out.println("반환된 결과는 application03에서 즐겨주세요.");
 
         String grade;
+
         if(score == 100){
             grade = "A+";
         }else if(score < 100 && score >= 90){

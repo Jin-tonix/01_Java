@@ -1,4 +1,7 @@
 package com.ohgiraffers.section01.conditional;
+
+import java.util.Scanner;
+
 // 프로그램내에서 모두가 사용할 수 있는 application03이라는 클래스를 선언한다.
 public class Application03 {//application03의 시작
     //프로그램이 시작시 바로 사용할 수 있도록 static 영역에 main이라는 함수를 만들고 문자열 배열의 타입을 가진 args라는 변수를 선언한다.
@@ -11,10 +14,15 @@ public class Application03 {//application03의 시작
         D_switch dSwitch = new D_switch();
         //1. 값을 반환 받는다.
         //double result = dswitch.switchCalculator();
-       dSwitch.switchCalculator();
-
+        dSwitch.switchCalculator();
 
         dSwitch.Calculator2();
+
+
+
+        Scanner sc = new Scanner(System.in);
+        int score = sc.nextInt();
+        dSwitch.gradeCal(score);
 
     }//main의 종료
 
