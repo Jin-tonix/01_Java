@@ -22,11 +22,7 @@ public class Test_review_2 {
 
             sum += price [i];
         }
-        int
-
 
         }
     }
-}
-
 
