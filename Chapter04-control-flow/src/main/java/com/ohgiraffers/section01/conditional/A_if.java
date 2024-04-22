@@ -23,4 +23,6 @@ public class A_if {
     }
 
 
+    public void Calculator() {
+    }
 }
