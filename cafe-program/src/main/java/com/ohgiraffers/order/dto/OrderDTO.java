@@ -1,12 +1,15 @@
 package com.ohgiraffers.order.dto;
 
 public class OrderDTO {
-
     private String menuName;
-
     private int price;
-
     private int quantity;
+
+    public OrderDTO(String menuName, int price, int quantity) {
+        this.menuName = menuName;
+        this.price = quantity * price;
+        this.quantity = quantity;
+    }
 
     public String getMenuName() {
         return menuName;
@@ -20,18 +23,15 @@ public class OrderDTO {
         return price;
     }
 
-
     public int getQuantity() {
         return quantity;
     }
 
     public void setQuantity(int quantity, int price) {
         this.quantity = quantity;
-        this.price = quantity * price;
     }
 
-
-        @Override
+    @Override
     public String toString() {
         return "OrderDTO{" +
                 "menuName='" + menuName + '\'' +
@@ -39,6 +39,4 @@ public class OrderDTO {
                 ", quantity=" + quantity +
                 '}';
     }
-
 }
-
