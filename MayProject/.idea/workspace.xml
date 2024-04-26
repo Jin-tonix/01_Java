@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ce3aef8-cc44-4d00-8430-37fefd20cfe5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/out/production/section01/com/javaeagles/section01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/out/production/section01/com/javaeagles/section01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/out/production/section01/com/javaeagles/section01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/out/production/section01/com/javaeagles/section01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/controller/Pcontorller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/controller/Pcontorller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/dao/Prepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/dao/Prepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/dto/PhoneDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/dto/PhoneDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/service/Pservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mayproject/phone-managing/src/main/java/com/javaeagles/section01/service/Pservice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Mayproject/phone-managing">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mayproject" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fcl6swflA7z0nRje8CdRdAAbXJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.phone-managing [:Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/class/새 폴더/01_Java/MayProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaeagles.section01.Application" />
+      <module name="phone-managing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaeagles.section01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce3aef8-cc44-4d00-8430-37fefd20cfe5" name="Changes" comment="" />
+      <created>1714108074540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714108074540</updated>
+      <workItem from="1714108075692" duration="1566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

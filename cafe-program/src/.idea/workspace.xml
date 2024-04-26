@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a59678a5-0788-4f1a-b7fe-6d4ae8f86419" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section01/extend/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section01/extend/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section01/extend/FireCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section01/extend/RacingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section02/superkeyword/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section02/superkeyword/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section02/superkeyword/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section03/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter08-inheritance/src/main/java/com/ohgiraffers/section03/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/src/main/java/com/ohgiraffers/section01/polymorphim/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/src/main/java/com/ohgiraffers/section01/polymorphim/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/src/main/java/com/ohgiraffers/section01/polymorphim/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter09.polymorpshism/src/main/java/com/ohgiraffers/section01/polymorphim/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/MayProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MayProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MayProject/Mayproject" beforeDir="false" afterPath="$PROJECT_DIR$/../../MayProject/Mayproject" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2fcJyHZvzcD1akwbVFBMyqcow8M" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/class/새 폴더/01_Java/cafe-program/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a59678a5-0788-4f1a-b7fe-6d4ae8f86419" name="Changes" comment="" />
+      <created>1714094685397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714094685397</updated>
+      <workItem from="1714094686467" duration="4739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
